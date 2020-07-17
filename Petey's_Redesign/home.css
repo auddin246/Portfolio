@@ -1,0 +1,48 @@
+body {
+    background-color: #FC0203;
+}
+nav {
+    background-color: white;
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+li {
+    font-size: 20px;
+    padding: 0px 10px 0px 10px;
+    display: inline;
+}
+ a {
+    text-decoration: none;
+
+ }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slideshow {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: initial;
+}
+
+#slide {
+    height: 400px;
+    width: 768px;
+}
+
+.i1, .i2, .i3, .i4 {
+    position: absolute;
+    left: 25%;
+}
+
+
